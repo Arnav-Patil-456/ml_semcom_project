@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1,ROC_AUC
+Logistic Regression (Balanced),0.8376,0.1053,0.1905,0.1356,0.6218
+K-Nearest Neighbors,0.9331,0.5,0.0476,0.087,0.6685
+Decision Tree (Balanced),0.6592,0.07,0.3333,0.1157,0.5054
+Random Forest (Balanced),0.9331,0.0,0.0,0.0,0.7728
